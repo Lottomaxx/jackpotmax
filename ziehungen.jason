@@ -1,0 +1,22 @@
+{
+  "lotto_mi": {
+    "datum": "25.06.2026",
+    "zahlen": [25, 36, 40, 43, 44, 49],
+    "superzahl": 3
+  },
+  "lotto_sa": {
+    "datum": "20.06.2026",
+    "zahlen": [25, 36, 40, 43, 44, 49],
+    "superzahl": 3
+  },
+  "euro_di": {
+    "datum": "23.06.2026",
+    "zahlen": [24, 27, 43, 48, 50],
+    "eurozahlen": [4, 12]
+  },
+  "euro_fr": {
+    "datum": "19.06.2026",
+    "zahlen": [9, 26, 29, 37, 42],
+    "eurozahlen": [1, 7]
+  }
+}
