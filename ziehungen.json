@@ -1,22 +1,46 @@
 {
-  "lotto_mi": {
-    "datum": "25.06.2026",
-    "zahlen": [25, 36, 40, 43, 44, 49],
-    "superzahl": 3
-  },
-  "lotto_sa": {
-    "datum": "20.06.2026",
-    "zahlen": [25, 36, 40, 43, 44, 49],
-    "superzahl": 3
-  },
-  "euro_di": {
-    "datum": "23.06.2026",
-    "zahlen": [24, 27, 43, 48, 50],
-    "eurozahlen": [4, 12]
-  },
-  "euro_fr": {
-     "datum": "19.06.2026",
-    "zahlen": [9, 26, 29, 37, 42],
-    "eurozahlen": [1, 7]
-  }
+  "mittwoch": [
+    {"datum": "24.06.2026", "zahlen": [25, 36, 40, 43, 44, 49], "superzahl": 3},
+    {"datum": "17.06.2026", "zahlen": [3, 4, 20, 26, 27, 39], "superzahl": 9},
+    {"datum": "10.06.2026", "zahlen": [11, 15, 16, 28, 39, 42], "superzahl": 7},
+    {"datum": "03.06.2026", "zahlen": [4, 6, 24, 26, 41, 44], "superzahl": 9},
+    {"datum": "27.05.2026", "zahlen": [16, 26, 30, 41, 44, 47], "superzahl": 1},
+    {"datum": "20.05.2026", "zahlen": [3, 14, 34, 39, 46, 48], "superzahl": 5},
+    {"datum": "13.05.2026", "zahlen": [13, 15, 20, 26, 31, 43], "superzahl": 7},
+    {"datum": "06.05.2026", "zahlen": [10, 13, 19, 38, 40, 48], "superzahl": 2},
+    {"datum": "29.04.2026", "zahlen": [1, 15, 25, 37, 43, 47], "superzahl": 4},
+    {"datum": "22.04.2026", "zahlen": [15, 26, 27, 35, 42, 47], "superzahl": 5},
+    {"datum": "15.04.2026", "zahlen": [3, 17, 25, 28, 40, 42], "superzahl": 0},
+    {"datum": "18.03.2026", "zahlen": [10, 13, 20, 35, 43, 49], "superzahl": 0},
+    {"datum": "11.03.2026", "zahlen": [17, 21, 26, 32, 35, 37], "superzahl": 0},
+    {"datum": "04.03.2026", "zahlen": [1, 15, 17, 24, 37, 40], "superzahl": 3},
+    {"datum": "25.02.2026", "zahlen": [9, 13, 25, 30, 37, 46], "superzahl": 8},
+    {"datum": "18.02.2026", "zahlen": [10, 15, 19, 20, 29, 48], "superzahl": 8},
+    {"datum": "11.02.2026", "zahlen": [8, 9, 18, 20, 37, 40], "superzahl": 3},
+    {"datum": "04.02.2026", "zahlen": [9, 11, 16, 22, 27, 37], "superzahl": 0},
+    {"datum": "28.01.2026", "zahlen": [9, 11, 25, 35, 37, 44], "superzahl": 3},
+    {"datum": "21.01.2026", "zahlen": [4, 5, 10, 15, 24, 27], "superzahl": 7}
+  ],
+  "samstag": [
+    {"datum": "21.06.2026", "zahlen": [2, 8, 13, 15, 27, 35], "superzahl": 3},
+    {"datum": "13.06.2026", "zahlen": [4, 13, 16, 20, 24, 43], "superzahl": 8},
+    {"datum": "06.06.2026", "zahlen": [8, 16, 17, 23, 30, 32], "superzahl": 8},
+    {"datum": "30.05.2026", "zahlen": [3, 10, 14, 27, 41, 48], "superzahl": 2},
+    {"datum": "23.05.2026", "zahlen": [2, 6, 8, 11, 14, 39], "superzahl": 7},
+    {"datum": "16.05.2026", "zahlen": [7, 11, 20, 23, 27, 30], "superzahl": 9},
+    {"datum": "09.05.2026", "zahlen": [2, 3, 12, 36, 39, 43], "superzahl": 8},
+    {"datum": "02.05.2026", "zahlen": [1, 5, 9, 20, 21, 32], "superzahl": 5},
+    {"datum": "25.04.2026", "zahlen": [6, 12, 15, 20, 35, 49], "superzahl": 9},
+    {"datum": "18.04.2026", "zahlen": [18, 28, 34, 37, 44, 48], "superzahl": 4},
+    {"datum": "07.02.2026", "zahlen": [7, 11, 20, 25, 28, 49], "superzahl": 7},
+    {"datum": "31.01.2026", "zahlen": [8, 19, 30, 37, 38, 49], "superzahl": 3},
+    {"datum": "24.01.2026", "zahlen": [1, 7, 28, 32, 47, 49], "superzahl": 1},
+    {"datum": "17.01.2026", "zahlen": [12, 21, 22, 37, 46, 49], "superzahl": 1},
+    {"datum": "10.01.2026", "zahlen": [1, 4, 7, 9, 13, 29], "superzahl": 6},
+    {"datum": "03.01.2026", "zahlen": [3, 8, 11, 12, 16, 46], "superzahl": 8},
+    {"datum": "27.12.2025", "zahlen": [5, 14, 22, 31, 38, 44], "superzahl": 2},
+    {"datum": "20.12.2025", "zahlen": [6, 10, 19, 28, 33, 47], "superzahl": 5},
+    {"datum": "13.12.2025", "zahlen": [3, 9, 21, 29, 36, 42], "superzahl": 7},
+    {"datum": "06.12.2025", "zahlen": [4, 11, 18, 25, 37, 45], "superzahl": 3}
+  ]
 }
