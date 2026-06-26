@@ -15,7 +15,7 @@
     "eurozahlen": [4, 12]
   },
   "euro_fr": {
-    "datum": "19.06.2026",
+     "datum": "19.06.2026",
     "zahlen": [9, 26, 29, 37, 42],
     "eurozahlen": [1, 7]
   }
