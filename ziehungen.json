@@ -22,6 +22,7 @@
 {"datum":"18.02.2026","zahlen":[10,15,19,20,29,48],"superzahl":8}
   ],
   "samstag": [
+{"datum":"27.06.2026","zahlen":[7,10,28,31,36,37],"superzahl":5},
 {"datum":"27.06.2026","zahlen":[26,32,35,39,47,49],"superzahl":8},
 {"datum":"20.06.2026","zahlen":[2,8,13,15,27,35],"superzahl":3},
 {"datum":"13.06.2026","zahlen":[4,13,16,20,24,43],"superzahl":8},
@@ -40,8 +41,7 @@
 {"datum":"14.03.2026","zahlen":[19,20,28,32,44,45],"superzahl":0},
 {"datum":"07.03.2026","zahlen":[5,16,20,38,39,41],"superzahl":4},
 {"datum":"28.02.2026","zahlen":[1,6,19,33,44,45],"superzahl":8},
-{"datum":"21.02.2026","zahlen":[2,8,9,29,39,44],"superzahl":6},
-{"datum":"14.02.2026","zahlen":[3,9,19,20,40,43],"superzahl":7}
+{"datum":"21.02.2026","zahlen":[2,8,9,29,39,44],"superzahl":6}
   ],
   "dienstag": [
     {"zahlen":[12,19,34,44,50],"euro":[3,8]},
