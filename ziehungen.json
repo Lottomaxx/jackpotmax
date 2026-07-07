@@ -1,6 +1,6 @@
 {
   "mittwoch": [
-{"datum":"24.06.2026","zahlen":[2,4,5,13,41,48],"superzahl":4},
+{"datum":"01.07.2026","zahlen":[2,4,5,13,41,48],"superzahl":4},
 {"datum":"24.06.2026","zahlen":[25,36,40,43,44,49],"superzahl":3},
 {"datum":"17.06.2026","zahlen":[3,4,20,26,27,39],"superzahl":9},
 {"datum":"10.06.2026","zahlen":[11,15,16,28,39,42],"superzahl":7},
@@ -22,7 +22,7 @@
 {"datum":"18.02.2026","zahlen":[10,15,19,20,29,48],"superzahl":8}
   ],
   "samstag": [
-{"datum":"27.06.2026","zahlen":[7,10,28,31,36,37],"superzahl":5},
+{"datum":"04.07.2026","zahlen":[7,10,28,31,36,37],"superzahl":5},
 {"datum":"27.06.2026","zahlen":[26,32,35,39,47,49],"superzahl":8},
 {"datum":"20.06.2026","zahlen":[2,8,13,15,27,35],"superzahl":3},
 {"datum":"13.06.2026","zahlen":[4,13,16,20,24,43],"superzahl":8},
