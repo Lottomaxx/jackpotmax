@@ -36,7 +36,6 @@
 {"datum":"12.11.2025","zahlen":[6,11,20,28,36,46],"superzahl":7},
 {"datum":"05.11.2025","zahlen":[8,20,28,33,37,49],"superzahl":6},
 {"datum":"29.10.2025","zahlen":[5,7,9,31,43,46],"superzahl":9}
-
   ],
   "samstag": [
 {"datum":"04.07.2026","zahlen":[7,10,28,31,36,37],"superzahl":5},
